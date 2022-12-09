@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  dllFunc.cpp
+     C:\Users\USER\Desktop\Study\학원\DirectX\TemProgram\03. External\Library\Dll1\Dll1_debug.lib 라이브러리 및 C:\Users\USER\Desktop\Study\학원\DirectX\TemProgram\03. External\Library\Dll1\Dll1_debug.exp 개체를 생성하고 있습니다.
+  Dll1.vcxproj -> C:\Users\USER\Desktop\Study\학원\DirectX\TemProgram\03. External\Library\Dll1\Dll1_debug.dll
